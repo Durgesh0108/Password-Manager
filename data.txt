@@ -1,0 +1,14 @@
+{
+    "Google": {
+        "Username/Email": "prajapatidurgesh1518@gmail.com",
+        "Password": "HVA8u(O!35z&("
+    },
+    "Yahoo": {
+        "Username/Email": "prajapatidurgesh1518@gmail.com",
+        "Password": "iqkd%7o)h5aE1)1"
+    },
+    "Gmail": {
+        "Username/Email": "prajapatidurgesh1518@gmail.com",
+        "Password": "9lm))2&d%sLi"
+    }
+}
